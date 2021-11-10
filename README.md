@@ -6,7 +6,7 @@
 
 <p align="center">
   
-  <a href="https://github.com/dimkagithub" target="_blank"><img alt="dimkagithub" src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub"/>
+  <a href="https://github.com/dimkagithub" target="_blank"><img alt="dimkagithub" src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub">
   <img src="https://badges.pufler.dev/years/dimkagithub?logo=GitHub">
   <img src="https://badges.pufler.dev/repos/dimkagithub?logo=GitHub">
   <img src="https://badges.pufler.dev/gists/dimkagithub?logo=GitHub">
