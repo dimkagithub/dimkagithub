@@ -7,6 +7,6 @@
 <p align="center">
   
   <img src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square">
-  <img src="https://badges.pufler.dev/years/dimkagithub?logo=GitHub&label=Years&color=success&logoColor=white&style=flat-square">
+  <img src="https://badges.pufler.dev/years/dimkagithub?logo=GitHub&label=Years&color=success&logoColor=white&style=flat-square"><img src="https://badges.pufler.dev/repos/dimkagithub?logo=GitHub&label=Repos&color=success&logoColor=white&style=flat-square">
        
 </p>
