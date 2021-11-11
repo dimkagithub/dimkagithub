@@ -6,8 +6,8 @@
 <p align="center">
   <a href="https://github.com/dimkagithub" target="_blank"><img alt="dimkagithub" src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub&style=plastic"/></a>
   <a href="https://github.com/dimkagithub" target="_blank"><img alt="dimkagithub" src="https://badges.pufler.dev/years/dimkagithub?logo=GitHub&style=plastic"/></a>
-  <a href="https://github.com/dimkagithub" target="_blank"><img alt="dimkagithub" src="https://badges.pufler.dev/repos/dimkagithub?logo=GitHub&style=plastic"></a>
-  <a href="https://github.com/dimkagithub" target="_blank"><img alt="dimkagithub" src="https://badges.pufler.dev/gists/dimkagithub?logo=GitHub&style=plastic"></a>
-  <a href="https://github.com/dimkagithub" target="_blank"><img alt="dimkagithub" src="https://badges.pufler.dev/commits/monthly/dimkagithub?logo=GitHub&style=plastic"></a>
+  <a href="https://github.com/dimkagithub" target="_blank"><img alt="dimkagithub" src="https://badges.pufler.dev/repos/dimkagithub?logo=GitHub&style=plastic"/></a>
+  <a href="https://github.com/dimkagithub" target="_blank"><img alt="dimkagithub" src="https://badges.pufler.dev/gists/dimkagithub?logo=GitHub&style=plastic"/></a>
+  <a href="https://github.com/dimkagithub" target="_blank"><img alt="dimkagithub" src="https://badges.pufler.dev/commits/monthly/dimkagithub?logo=GitHub&style=plastic"/></a>
   
 </p>
