@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/dimkagithub">
-    <img src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub&style=plastic">
+    <img src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub&style=plastic&a=0">
   </a>
   
   
