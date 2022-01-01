@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <a href="https://github.com/dimkagithub">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimkagithub&theme=solarized_dark" style=width:60%>
   </a>
