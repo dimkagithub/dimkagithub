@@ -27,4 +27,8 @@
     <img src="https://badges.pufler.dev/commits/monthly/dimkagithub?logo=GitHub&style=plastic&a=0">
   </a>
 </p>
-      <iframe width="900" height="450" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
+
+<body>
+  <iframe width="900" height="450" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
+  </iframe>
+</body>
