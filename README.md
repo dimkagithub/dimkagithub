@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <html>
 <p align="center">
   <a href="https://github.com/dimkagithub">
