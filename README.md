@@ -25,7 +25,5 @@
   </a>
   <a href="https://github.com/dimkagithub">
     <img src="https://badges.pufler.dev/commits/monthly/dimkagithub?logo=GitHub&style=plastic&a=0">
-      <iframe width="900" height="450" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
   </a>
-  
 </p>
