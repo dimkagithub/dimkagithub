@@ -1,5 +1,3 @@
-<!DOCTYPE HTML>
-<html>
 <p align="center">
   <a href="https://github.com/dimkagithub">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimkagithub&theme=solarized_dark" width="500">
@@ -29,9 +27,3 @@
     <img src="https://badges.pufler.dev/commits/monthly/dimkagithub?logo=GitHub&style=plastic&a=0">
   </a>
 </p>
-
-<body>
-  <iframe width="900" height="450" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
-  </iframe>
-</body>
-</html>
