@@ -20,7 +20,7 @@
   <a href="https://github.com/dimkagithub?tab=repositories">
     <img src="https://badges.strrl.dev/repos/dimkagithub?logo=GitHub&style=plastic&a=0">
   </a>
-  <a href="https://github.com/dimkagithub">
+  <a href="https://gist.github.com/dimkagithub">
     <img src="https://badges.strrl.dev/gists/dimkagithub?logo=GitHub&style=plastic&a=0">
   </a>
   <a href="https://github.com/dimkagithub">
