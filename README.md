@@ -26,4 +26,7 @@
   <a href="https://github.com/dimkagithub">
     <img src="https://badges.strrl.dev/commits/monthly/dimkagithub?logo=GitHub&style=plastic&a=0">
   </a>
+    <a href="https://github.com/dimkagithub">
+    <img src="https://badges.strrl.dev/commits/early/dimkagithub?logo=GitHub&style=plastic&a=0">
+  </a>
 </p>
