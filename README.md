@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/dimkagithub">
-    <img src="github-readme-stats-dimkagithubs-projects.vercel.app/api?username=dimkagithub&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark">
+    <img src="https://github-readme-stats-dimkagithubs-projects.vercel.app/api?username=dimkagithub&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark">
   </a>
 </p>
 
