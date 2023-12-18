@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href= "https://github.com/dimkagithub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimkagithub&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimkagithub&layout=compact" width="480">
   </a>
 </p>
 
