@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/dimkagithub">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimkagithub&theme=vision-friendly-dark" width="480">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimkagithub&theme=solarized_dark" width="480">
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href= "https://github.com/dimkagithub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimkagithub&layout=compact&theme=vision-friendly-dark" width="470">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimkagithub&layout=compact&theme=solarized_dark" width="470">
   </a>
 </p>
 
