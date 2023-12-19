@@ -11,6 +11,12 @@
 </p>
 
 <p align="center">
+  <a href= "https://github.com/dimkagithub">
+    <img src="https://github-readme-stats-dimkagithubvercel.vercel.app/api/top-langs/?username=dimkagithub&layout=compact&theme=vision-friendly-dark" width="470">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/dimkagithub">
     <img src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub&style=plastic&a=0">
   </a>
