@@ -1,22 +1,22 @@
 <p align="center">
   <a href="https://github.com/dimkagithub">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimkagithub&theme=solarized_dark">
+    <img src="https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/profile-details?username=dimkagithub&theme=solarized_dark">
   </a>
 </p>
 
 <p align="center">
   <a href= "https://github.com/dimkagithub">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dimkagithub&theme=solarized_dark">
+    <img src="https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/stats?username=dimkagithub&theme=solarized_dark">
   <a href= "https://github.com/dimkagithub">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dimkagithub&theme=solarized_dark">
+    <img src="https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/productive-time?username=dimkagithub&theme=solarized_dark&utcOffset=+5">
   </a>
 </p>
 
 <p align="center">
   <a href= "https://github.com/dimkagithub">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dimkagithub&theme=solarized_dark">
+    <img src="https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/repos-per-language?username=dimkagithub&theme=solarized_dark">
   <a href= "https://github.com/dimkagithub">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dimkagithub&theme=solarized_dark&utcOffset=+5">
+    <img src="https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/most-commit-language?username=dimkagithub&theme=solarized_dark">
   </a>
 </p>
 
