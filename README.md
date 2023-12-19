@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/dimkagithub">
-    <img src="https://github-readme-stats-dimkagithubvercel.vercel.app/api?username=dimkagithub&border_radius=5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark" height="230" hspace="10">
+    <img src="https://github-readme-stats-dimkagithubvercel.vercel.app/api?username=dimkagithub&border_radius=15&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark" height="230" hspace="10">
   <a href= "https://github.com/dimkagithub">
     <img src="https://github-readme-stats-dimkagithubvercel.vercel.app/api/top-langs/?username=dimkagithub&border_radius=5&layout=compact&theme=vision-friendly-dark" width="418">
   </a>
