@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/dimkagithub">
-    <img src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub&style=plastic&a=0">
+    <img src="https://img.shields.io/visits/dimkagithub/dimkagithub?logo=GitHub&style=plastic&a=0">
   </a>
   <a href="https://github.com/dimkagithub">
     <img src="https://badges.pufler.dev/years/dimkagithub?logo=GitHub&style=plastic&a=0">
