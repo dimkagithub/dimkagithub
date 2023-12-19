@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/dimkagithub">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimkagithub&theme=solarized_dark" width="600">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimkagithub&theme=solarized_dark" width="500">
   <a href="https://github.com/dimkagithub">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dimkagithub&theme=solarized_dark&utcOffset=+5" width="290">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dimkagithub&theme=solarized_dark&utcOffset=+5" width="243">
   </a>
 </p>
 
