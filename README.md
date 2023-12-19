@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/dimkagithub">
-    <img src="https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/profile-details?username=dimkagithub&theme=solarized_dark" width="600">
+    <img src="https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/profile-details?username=dimkagithub&theme=solarized_dark" width="605">
   </a>
 </p>
 
