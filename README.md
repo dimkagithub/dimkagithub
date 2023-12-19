@@ -6,13 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/dimkagithub">
-    <img src="https://github-readme-stats-dimkagithubvercel.vercel.app/api?username=dimkagithub&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark">
-  </a>
-</p>
-
-<p align="center">
+    <img src="https://github-readme-stats-dimkagithubvercel.vercel.app/api?username=dimkagithub&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark" height="250">
   <a href= "https://github.com/dimkagithub">
-    <img src="https://github-readme-stats-dimkagithubvercel.vercel.app/api/top-langs/?username=dimkagithub&layout=compact&theme=vision-friendly-dark" width="470">
+    <img src="https://github-readme-stats-dimkagithubvercel.vercel.app/api/top-langs/?username=dimkagithub&layout=compact&theme=vision-friendly-dark" width="455">
   </a>
 </p>
 
