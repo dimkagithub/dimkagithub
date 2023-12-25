@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/dimkagithub">
-    <img src="https://github-readme-stats-dimkagithubvercel.vercel.app/api?username=dimkagithub&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=solarized-dark&hide_border=true&text_color=869396&custom_title=dimkagithub (Dmitry)&text_bold=false&ring_color=ffff00" width=505>
+    <img src="https://github-readme-stats-dimkagithubvercel.vercel.app/api?username=dimkagithub&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=solarized-dark&hide_border=true&text_color=869396&custom_title="dimkagithub (Dmitry)"&text_bold=false&ring_color=ffff00" width=505>
   </a>
 </p>
 
