@@ -27,7 +27,7 @@
     <img src="https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/most-commit-language?username=dimkagithub&theme=solarized_dark" width="300" />
   </a>
 </div>
-<div style="height:5px"></div>
+<div style="height:10px"></div>
 <div align="center" style="font-size:0;">
   <a href="https://github.com/dimkagithub" style="display:inline-block;margin-right:4px;">
     <img src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub" />
