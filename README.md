@@ -28,31 +28,17 @@
   </a>
 </div>
 <br>
-<div style="height:0px"></div>
-<div align="center" style="font-size:0;">
-  <a href="https://github.com/dimkagithub" style="display:inline-block;margin-right:5px;">
-    <img src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub" />
-  </a>
-  <a href="https://github.com/dimkagithub" style="display:inline-block;margin-right:5px;">
-    <img src="https://badges.pufler.dev/years/dimkagithub?logo=GitHub" />
-  </a>
-  <a href="https://github.com/dimkagithub?tab=repositories" style="display:inline-block;margin-right:5px;">
-    <img src="https://badges.pufler.dev/repos/dimkagithub?logo=GitHub" />
-  </a>
-  <a href="https://gist.github.com/dimkagithub" style="display:inline-block;margin-right:5px;">
-    <img src="https://badges.pufler.dev/gists/dimkagithub?logo=GitHub" />
-  </a>
-  <a href="https://github.com/dimkagithub" style="display:inline-block;margin-right:5px;">
-    <img src="https://badges.pufler.dev/commits/monthly/dimkagithub?logo=GitHub" />
-  </a>
-  <a href="https://github.com/dimkagithub" style="display:inline-block;">
-    <img src="https://badges.pufler.dev/commits/yearly/dimkagithub?logo=GitHub" />
-  </a>
-</div>
-<br>
-<div style="height:5px"></div>
-<div align="center">
+<p align="center" style="font-size:0;">
+  <a href="https://github.com/dimkagithub" style="display:inline-block;margin-right:4px;"><img src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub" /></a>
+  <a href="https://github.com/dimkagithub" style="display:inline-block;margin-right:4px;"><img src="https://badges.pufler.dev/years/dimkagithub?logo=GitHub" /></a>
+  <a href="https://github.com/dimkagithub?tab=repositories" style="display:inline-block;margin-right:4px;"><img src="https://badges.pufler.dev/repos/dimkagithub?logo=GitHub" /></a>
+  <a href="https://gist.github.com/dimkagithub" style="display:inline-block;margin-right:4px;"><img src="https://badges.pufler.dev/gists/dimkagithub?logo=GitHub" /></a>
+  <a href="https://github.com/dimkagithub" style="display:inline-block;margin-right:4px;"><img src="https://badges.pufler.dev/commits/monthly/dimkagithub?logo=GitHub" /></a>
+  <a href="https://github.com/dimkagithub" style="display:inline-block;"><img src="https://badges.pufler.dev/commits/yearly/dimkagithub?logo=GitHub" /></a>
+</p>
+
+<p align="center">
   <a href="https://wakatime.com/@84c2e0c5-5028-4205-99e6-0e9700d29d15">
     <img src="https://wakatime.com/badge/user/84c2e0c5-5028-4205-99e6-0e9700d29d15.svg?style=default" alt="Total time coded since Jun 19 2025" />
   </a>
-</div>
+</p>
