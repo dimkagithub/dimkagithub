@@ -11,19 +11,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dimkagithub">
+  <a href="https://github.com/dimkagithub" style="display:inline-block;margin-right:4px;">
     <img src="https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/stats?username=dimkagithub&theme=solarized_dark" width="300" />
   </a>
-  <a href="https://github.com/dimkagithub">
+  <a href="https://github.com/dimkagithub" style="display:inline-block;">
     <img src="https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/productive-time?username=dimkagithub&theme=solarized_dark&utcOffset=+5" width="300" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/dimkagithub">
+  <a href="https://github.com/dimkagithub" style="display:inline-block;margin-right:4px;">
     <img src="https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/repos-per-language?username=dimkagithub&theme=solarized_dark" width="300" />
   </a>
-  <a href="https://github.com/dimkagithub">
+  <a href="https://github.com/dimkagithub" style="display:inline-block;">
     <img src="https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/most-commit-language?username=dimkagithub&theme=solarized_dark" width="300" />
   </a>
 </p>
