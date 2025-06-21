@@ -27,7 +27,7 @@
     <img src="https://github-profile-summary-cards-dimkagithubvercel.vercel.app/api/cards/most-commit-language?username=dimkagithub&theme=solarized_dark" width="300" />
   </a>
 </div>
-<div style="height:5px"></div>
+<br>
 <div align="center" style="font-size:0;">
   <a href="https://github.com/dimkagithub" style="display:inline-block;margin-right:4px;">
     <img src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub" />
@@ -48,7 +48,7 @@
     <img src="https://badges.pufler.dev/commits/yearly/dimkagithub?logo=GitHub" />
   </a>
 </div>
-<div style="height:5px"></div>
+<br>
 <div align="center">
   <a href="https://wakatime.com/@84c2e0c5-5028-4205-99e6-0e9700d29d15">
     <img src="https://wakatime.com/badge/user/84c2e0c5-5028-4205-99e6-0e9700d29d15.svg?style=default" alt="Total time coded since Jun 19 2025" />
