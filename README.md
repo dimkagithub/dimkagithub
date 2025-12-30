@@ -36,8 +36,3 @@
   <a href="https://github.com/dimkagithub" style="display:inline-block;margin-right:5px;"><img src="https://badges.pufler.dev/commits/monthly/dimkagithub?logo=GitHub" /></a>
   <a href="https://github.com/dimkagithub" style="display:inline-block;"><img src="https://badges.pufler.dev/commits/yearly/dimkagithub?logo=GitHub" /></a>
 </p>
-<p align="center">
-  <a href="https://github.com/dimkagithub">
-    <img src="https://wakatime.com/badge/user/84c2e0c5-5028-4205-99e6-0e9700d29d15.svg?style=default" alt="Total time coded since Jun 19 2025" />
-  </a>
-</p>
