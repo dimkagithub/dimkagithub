@@ -32,7 +32,7 @@
   <a href="https://swift365.ru" style="display:inline-block;margin-right:5px;"><img src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub" /></a>
   <a href="https://swift365.ru" style="display:inline-block;margin-right:5px;"><img src="https://badges.pufler.dev/years/dimkagithub?logo=GitHub" /></a>
   <a href="https://swift365.ru?tab=repositories" style="display:inline-block;margin-right:5px;"><img src="https://badges.pufler.dev/repos/dimkagithub?logo=GitHub" /></a>
-  <a href="https://gist.github.com/dimkagithub" style="display:inline-block;margin-right:5px;"><img src="https://badges.pufler.dev/gists/dimkagithub?logo=GitHub" /></a>
+  <a href="https://gist.swift365.ru" style="display:inline-block;margin-right:5px;"><img src="https://badges.pufler.dev/gists/dimkagithub?logo=GitHub" /></a>
   <a href="https://swift365.ru" style="display:inline-block;margin-right:5px;"><img src="https://badges.pufler.dev/commits/monthly/dimkagithub?logo=GitHub" /></a>
   <a href="https://swift365.ru" style="display:inline-block;"><img src="https://badges.pufler.dev/commits/yearly/dimkagithub?logo=GitHub" /></a>
 </p>
