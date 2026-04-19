@@ -36,3 +36,6 @@
   <a href="https://swift365.ru" style="display:inline-block;margin-right:5px;"><img src="https://badges.pufler.dev/commits/monthly/dimkagithub?logo=GitHub" /></a>
   <a href="https://swift365.ru" style="display:inline-block;"><img src="https://badges.pufler.dev/commits/yearly/dimkagithub?logo=GitHub" /></a>
 </p>
+<script src="https://ip-api.in/js/ip-widget.min.js"></script>
+
+<div class="ip-widget" style="display: inline-block;" data-type="badge" data-theme="auto" data-color="#245dac" data-text-align="center" data-border-radius="8" data-width="auto" data-font-family="mono" data-font-size="medium" data-shadow="sm" data-padding="normal" data-animation="true"></div>
