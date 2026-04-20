@@ -29,7 +29,7 @@
 </div>
 <br>
 <p align="center" style="font-size:10;">
-  <a href="https://swift365.ru" style="display:inline-block;margin-right:5px;"><img src="https://img.shields.io/badge/dynamic/json?url=https://github-stat-badges.vercel.app/api/github&query=unique_visits&label=Visits&color=brightgreen&logo=GitHub" /></a>
+  <a href="https://swift365.ru" style="display:inline-block;margin-right:5px;"><img src="https://img.shields.io/badge/dynamic/json?url=https://github-stat-badges.vercel.app/api/github&query=visits&label=Visits&color=brightgreen&logo=GitHub" /></a>
   <a href="https://swift365.ru" style="display:inline-block;margin-right:5px;"><img src="https://img.shields.io/badge/dynamic/json?url=https://github-stat-badges.vercel.app/api/github&query=years_on_github&label=Years&color=brightgreen&logo=GitHub" /></a>
  <a href="https://swift365.ru?tab=repositories" style="display:inline-block;margin-right:5px;"><img src="https://img.shields.io/badge/dynamic/json?url=https://github-stat-badges.vercel.app/api/github&query=repos&label=Repos&color=brightgreen&logo=GitHub" /></a>
  <a href="https://gist.swift365.ru" style="display:inline-block;margin-right:5px;"><img src="https://img.shields.io/badge/dynamic/json?url=https://github-stat-badges.vercel.app/api/github&query=gists&label=Gists&color=brightgreen&logo=GitHub" /></a>
